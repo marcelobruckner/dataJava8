@@ -1,0 +1,2 @@
+module dataJava8 {
+}
